@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 01 - Data Visualization
 
 ## Objective
@@ -37,7 +38,11 @@ Task-01/
 
 3. Run visualization:
    python scripts/visualization.py
+   python scripts/visualization2.py
 
 ## Output
 - outputs/histogram.png
 - outputs/barchart.png
+=======
+# PRODIGY_DS_01
+>>>>>>> b5a2895b3de9acc710373e235e39abe68b1b6c8e
